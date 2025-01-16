@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737058749,
+	"version": 1737063152,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -47,6 +47,8 @@
 		"images/restartbutton-sheet0.png",
 		"images/nextlevelbutton-sheet0.png",
 		"images/levelsbutton-sheet0.png",
+		"images/gobackplatf-sheet0.png",
+		"images/teleport-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

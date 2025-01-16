@@ -26241,6 +26241,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.behaviors.scrollto.prototype.acts.Shake,
 	cr.plugins_.Dictionary.prototype.acts.SetInstanceVar,
+	cr.plugins_.Sprite.prototype.acts.SetPosToObject,
 	cr.system_object.prototype.acts.GoToLayoutByName,
 	cr.system_object.prototype.exps.str,
 	cr.system_object.prototype.acts.GoToLayout,
