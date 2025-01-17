@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737085547,
+	"version": 1737112591,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,7 +49,7 @@
 		"images/levelsbutton-sheet0.png",
 		"images/gobackplatf-sheet0.png",
 		"images/teleport-sheet0.png",
-		"images/okbutton-sheet0.png",
+		"images/usebutton-sheet0.png",
 		"images/pressxbutton-sheet0.png",
 		"images/guidewall-sheet0.png",
 		"images/guidewall2-sheet0.png",
@@ -64,6 +64,7 @@
 		"images/cave.png",
 		"images/building-sheet0.png",
 		"images/orclickok-sheet0.png",
+		"images/teleportx-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
