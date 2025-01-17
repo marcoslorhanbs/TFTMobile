@@ -26252,5 +26252,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Dictionary.prototype.cnds.CompareInstanceVar,
 	cr.plugins_.Browser.prototype.acts.Close,
 	cr.plugins_.Sprite.prototype.acts.SetOpacity,
-	cr.plugins_.Text.prototype.acts.SetOpacity
+	cr.plugins_.Text.prototype.cnds.IsBoolInstanceVarSet,
+	cr.plugins_.Text.prototype.acts.SetOpacity,
+	cr.plugins_.Text.prototype.acts.SetBoolInstanceVar
 ];};
