@@ -26221,6 +26221,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetBoolInstanceVar,
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.behaviors.Pin.prototype.acts.Pin,
+	cr.system_object.prototype.acts.SetCanvasSize,
 	cr.plugins_.Sprite.prototype.cnds.OnAnimFinished,
 	cr.plugins_.Sprite.prototype.cnds.IsBoolInstanceVarSet,
 	cr.plugins_.Sprite.prototype.acts.SetAnim,
